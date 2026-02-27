@@ -10,9 +10,6 @@ Architecture: Multi-threaded execution to ensure a smooth, lag-free UI.
 
 Frontend: Built with CustomTkinter for a native, modern desktop feel.
 
-🛠️ Quick Start
-Add your API Key to .env
-
 Install requirements: pip install customtkinter google-generativeai deep-translator
 
 Run: python OdaGPT.py
